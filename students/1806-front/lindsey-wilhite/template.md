@@ -7,16 +7,25 @@
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+
+* **B: Individual Work & Projects**:
+https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/number-guesser/lindsey-wilhite.md
+
+* **C: Group Work & Projects**:
+https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/linked-list/laura-lindsey.md
+https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/idea-box/lindsey-sara.md
+https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-1/to-do-box/lindsey-aaron.md
+
+* **D: Professional Skills**: 
+I have been consisitently developing my softskills for two weeks and feel like I have made progress with my selfcare and timeblocking so that I could better focus on my work.
+* **E: Community Participation**: 
+I attended a lightning talk in Clark, and a few lunch meetings to go over Mythical Creatures. I also encouraged my fellow student's where thaey were down, and cleaned up our room when there was shared food.
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+pending
 
 
 ## B: Individual Work & Projects
@@ -67,7 +76,7 @@
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I attended a lightning talk in Clark, and a few lunch meetings to go over Mythical Creatures. I also encouraged my fellow student's where they were down, and cleaned up our room when there was shared food.
 
 ------------------
 
